@@ -7,12 +7,16 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Prueba Git</title>
+        <link href="css/estilo1.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <?php
         // put your code here
-        echo 'Hello World!!';
+        echo 'Hello World!!';       
         ?>
+        <h1>Test</h1>
+        <p>Probando Git</p>
+        <h2>Titulo 2</h2>
     </body>
 </html>
