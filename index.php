@@ -18,5 +18,6 @@ and open the template in the editor.
         <h1>Test</h1>
         <p>Probando Git</p>
         <h2>Titulo 2</h2>
+        <p>Probando Git 2do parrafo</p>
     </body>
 </html>
